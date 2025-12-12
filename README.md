@@ -1,20 +1,20 @@
-# 🏠 India House – Rent Prediction Analysis Dashboard
+### 🏠 India House – Rent Prediction Analysis Dashboard
 A clean, interactive Power BI dashboard that analyzes rental trends across major Indian cities and identifies key factors influencing house rent.
-# 1. Project Title / Headline :
+### 1. Project Title / Headline :
 A comprehensive Power BI visualization tool built to explore house rents across India, compare city-level pricing, analyze property features, and understand rental trends.
-# 2. Short Description / Purpose
+### 2. Short Description / Purpose
 The India House Rent Dashboard is an interactive Power BI report designed to help users explore how house rent varies across Indian cities.
 It highlights important factors such as furnishing type, bedrooms, bathrooms, area, and locality that influence rental pricing.
 This dashboard is intended for tenants, real-estate analysts, property owners, investors, and data-driven decision-makers who want a clear understanding of India’s rental market.
 ### 3. Tech Stack
 The dashboard was developed using the following tools:
 
-📊 Power BI Desktop – Main tool for visualization and report creation
-📂 Power Query – Data cleaning, reshaping, and transformation
-🧠 DAX (Data Analysis Expressions) – Used for custom measures such as Avg Rent, Sum of Area, Avg Bedrooms
-🗂 Data Modeling – Relationships defined between city, house_type, and rent metrics for cross-filtering
-📝 CSV Dataset – Primary dataset containing rent, city, and property attributes
-📁 File Formats – .pbix for the dashboard, .csv for data, .png for final report preview
+📊 Power BI Desktop – Main tool for visualization and report creation.<br>
+📂 Power Query – Data cleaning, reshaping, and transformation.<br>
+🧠 DAX (Data Analysis Expressions) – Used for custom measures such as Avg Rent, Sum of Area, Avg Bedrooms.<br>
+🗂 Data Modeling – Relationships defined between city, house_type, and rent metrics for cross-filtering.<br>
+📝 CSV Dataset – Primary dataset containing rent, city, and property attributes.<br>
+📁 File Formats – .pbix for the dashboard, .csv for data, .png for final report preview.<br>
 
 ### 4. Data Source
 More info on where the data comes from and how it’s structured 

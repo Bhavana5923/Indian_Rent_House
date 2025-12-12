@@ -1,6 +1,6 @@
-# India House – Rent Prediction Analysis Dashboard
+# 🏠 India House – Rent Prediction Analysis Dashboard
 A clean, interactive Power BI dashboard that analyzes rental trends across major Indian cities and identifies key factors influencing house rent.
-# 1. Project Title / Headline :🏠 India House – Rent Prediction Analysis Dashboard
+# 1. Project Title / Headline :
 A comprehensive Power BI visualization tool built to explore house rents across India, compare city-level pricing, analyze property features, and understand rental trends.
 # 2. Short Description / Purpose
 The India House Rent Dashboard is an interactive Power BI report designed to help users explore how house rent varies across Indian cities.
@@ -73,8 +73,7 @@ Highlights:
 Show what the dashboard looks like.
 ### Home Page
 ![Home Page](https://github.com/Bhavana5923/Indian_Rent_House/blob/main/Indian_Rent_House_DashBoard.png)
-### Dashboard
-![Dashboard View](https://github.com/Bhavana5923/Indian_Rent_House/blob/main/Indian_Rent_House_DashBoard.png)
+
 
  
 
